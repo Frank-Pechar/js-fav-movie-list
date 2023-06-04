@@ -9,5 +9,9 @@ App can be run from: https://frank-pechar-js-fav-movie-list.netlify.app/
 ## This App Uses Javascript Features Such As:
 
 - Basic DOM manipulation and data entry using modals and class manipulation
+
+## Coding Methods and Features Used:
+
 - Tested and used varous DOM traversal and selection techniques
-- Removed event listener on bound function by recreating DOM element and pointing to new element for new event listener therby letting old event listener become garbage collected
+- Removed event listener on bound function by recreating the DOM element using cloneNode() and replaceWith() then pointing to the new element for a new event listener therby letting the old event listener become garbage collected
+- Basic Array handling methods 
