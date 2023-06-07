@@ -2,7 +2,7 @@
 # JavaScript Project
 ## Desription of App Functionality, Features, and Methods
 
-Javascript project I complete from Udemy Course - Javascript - The Complete Guide 2023 by Maximilian Schwarzmuller. After coding this project I added some minor changes and added extensive commenting for educational purposes.
+Javascript project I completed from Udemy - Javascript - The Complete Guide 2023 by Maximilian Schwarzmuller. After coding this project I added some minor changes and added extensive commenting for educational purposes.
 
 App can be run from: https://frank-pechar-js-fav-movie-list.netlify.app/
 
