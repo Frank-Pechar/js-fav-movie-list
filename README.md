@@ -10,7 +10,7 @@ App can be run from: https://frank-pechar-js-fav-movie-list.netlify.app/
 
 This App Provides for Creating a List of Favorite Movies
 
-Add a Favorite Movie to the List<
+Add a Favorite Movie to the List
 - Click the &lt;ADD MOVIE&gt; Button</li>
 - Add Movie Title, Image URL, and a Rating from 1 to 5
 - Click the &lt;ADD&gt; Button
