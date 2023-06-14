@@ -6,9 +6,11 @@ Javascript project I completed from Udemy - Javascript - The Complete Guide 2023
 
 App can be run from: https://frank-pechar-js-fav-movie-list.netlify.app/
 
-## App Functionality
+## App Description 
 
-This App Provides for Creating a List of Favorite Movies
+This App Provides for Creating a List of Favorite Movies.
+
+## App Functionality 
 
 Add a Favorite Movie to the List
 - Click the &lt;ADD MOVIE&gt; Button</li>
