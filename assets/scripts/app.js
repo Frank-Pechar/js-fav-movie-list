@@ -1,5 +1,3 @@
-// sample image https://upload.wikimedia.org/wikipedia/en/8/85/Terminator2poster.jpg
-
 'use strict';
 // Select global dom objects using various methods
 const addMovieModal = document.getElementById('add-modal');
