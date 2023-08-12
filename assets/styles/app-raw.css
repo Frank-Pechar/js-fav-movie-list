@@ -124,6 +124,7 @@ input:focus {
   position: fixed;
   z-index: 100;
   width: 80%;
+  max-width: 600px;
   top: 30vh;
   left: 10%;
   display: none;
@@ -236,13 +237,6 @@ input:focus {
 #add-modal .modal__content {
   display: flex;
   flex-direction: column;
-}
-
-@media (min-width: 768px) {
-  .modal {
-    width: 40rem;
-    left: calc(50% - 20rem);
-  }
 }
 
 @keyframes fade-slide-in {
