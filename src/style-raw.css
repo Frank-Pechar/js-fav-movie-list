@@ -4,7 +4,7 @@
 
 html {
   font-family: sans-serif;
-  font-size: clamp(0.5rem, 3.5vw, 1.25rem);
+  font-size: clamp(0.5rem, 3.5vw, 1rem);
 }
 
 body {
