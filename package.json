@@ -7,8 +7,8 @@
   "license": "ISC",
   "browserslist": "> 0.2%",
   "scripts": {
-    "prefix:css": "postcss src/app-raw.css --use autoprefixer -o assets/styles/app.prefix.css",
-    "compress:css": "node-sass assets/styles/app.prefix.css assets/styles/app.css --output-style compressed",
+    "prefix:css": "postcss src/style-raw.css --use autoprefixer -o assets/styles/style.prefix.css",
+    "compress:css": "node-sass assets/styles/style.prefix.css assets/styles/style.css --output-style compressed",
     "build:css": "npm-run-all prefix:css compress:css",
     "build:webpackdev": "cross-env NODE_OPTIONS=--openssl-legacy-provider webpack",
     "build:devNotWk": "cross-env NODE_OPTIONS=--openssl-legacy-provider webpack-dev-server",

@@ -3,10 +3,10 @@ const CleanPlugin = require('clean-webpack-plugin');
 
 module.exports = {
   mode: 'production',
-  entry: './src/app-pre.js',
+  entry: './src/script-pre.js',
   output: {
     // filename: '[contenthash].js', (unique name / no cache)
-    filename: 'app.js',
+    filename: 'script.js',
     path: path.resolve(__dirname, 'assets', 'scripts'),
     publicPath: 'assets/scripts/',
   },
